@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movies</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="dist/movies.js" defer></script>
+  </head>
+  <body>
+    <div class="movie-container">
+      <div class="header">
+        <div class="header-items">
+          <p><a href="index.html">FLICK FUSION</a></p>
+          <div class="icons">
+            <p class="username"></p>
+            <a href="sign-up.html" target="_blank">
+              <img src="img/student.png" alt="" srcset="" />
+            </a>
+            <a href="cart.html" target="_blank" class="cart-icon">
+              <img src="img/shopping-cart-1.png" alt="" srcset="" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="movie-list">
+        <div class="movie-cards">
+          <!-- <div class="movie">
+                <img src="" alt="">
+                <p>Title: Deadpool and Wolverine</p>
+                <p>Year of Release: 2024</p>
+                <button>Rent</button>
+                <button>Buy</button>
+            </div>  -->
+          <!-- <div class="movie">
+                <img src="" alt="">
+                <p>Title: This is me...now</p>
+                <p>Year of Release: 2024</p>
+                <button>Rent</button>
+                <button>Buy</button>
+            </div>  -->
+        </div>
+      </div>
+      <footer>
+        <p>Do you want us to add a movie?</p>
+        <p>Leave your suggestion in the form below</p>
+        <div class="suggestionForm">
+          <form>
+            <label for="movieimage">Movie Image</label>
+            <input
+              type="text"
+              name=""
+              id="movie-image"
+              placeholder="Image"
+              required
+            />
+            <label for="movieName">Movie Name</label>
+            <input
+              type="text"
+              name=""
+              id="movie-name"
+              placeholder="Title"
+              required
+            />
+            <label for="movieYear">Year of Release</label>
+            <input
+              type="number"
+              name=""
+              id="movie-year"
+              placeholder="Year"
+              required
+            />
+            <label for="moviePrice">Price</label>
+            <input
+              type="number"
+              name=""
+              id="movie-price"
+              placeholder="Year"
+              required
+            />
+            <label for="movieStock">InStock</label>
+            <input
+              type="number"
+              name=""
+              id="movie-instock"
+              placeholder="Year"
+              required
+            />
+            <button type="submit" id="movie-suggestion" onclick="">
+              Submit
+            </button>
+          </form>
+          <div class="sugerrormessage"></div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

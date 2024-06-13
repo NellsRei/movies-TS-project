@@ -1,0 +1,74 @@
+{
+  "User": [
+    {
+      "id": "",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "302c",
+      "username": "Nelly-1",
+      "password": "qwerty",
+      "email": "gichohinelly@gmail.com",
+      "cart": []
+    },
+    {
+      "id": "08ff",
+      "username": "Jane-Doe",
+      "password": "12345678",
+      "email": "gichohinelly386@gmail.com",
+      "cart": []
+    }
+  ],
+  "Movies": [
+    {
+      "id": "b247",
+      "movieimage": "https://imgs.search.brave.com/e7GxhphEKgzKNe0hn0uh2LO7nu7wQihXz8UoEbKqaj0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zLm1v/dmllaW5zaWRlci5j/b20vaW1hZ2VzL3Av/MTUwLzc4NzU2NF9t/MTcxNTM3NTMwNi5q/cGc",
+      "movietitle": "Backspot",
+      "yearofrelease": "2024",
+      "price": "80",
+      "instock": "30"
+    },
+    {
+      "id": "b0ab",
+      "movieimage": "https://imgs.search.brave.com/n0jgXLS1By2G-8F8X2JQ9ASJzBYmi8bu-fNaObf0qFQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5URmlOVE14/TlRRdE0yRXpPUzAw/TldOaExXRm1OemN0/TmpVNU9ESXpOREl6/TXpZelhrRXlYa0Zx/Y0dkZVFYVnlNamt3/T1RBeU1EVUAuanBn",
+      "movietitle": "Road House",
+      "yearofrelease": "2024",
+      "price": "1000",
+      "instock": "10"
+    },
+    {
+      "id": "5aff",
+      "movieimage": "https://imgs.search.brave.com/yWs9QEFXYrU3v_3u-6rm933mQmocVdRe0UFV1wkZL0g/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMxLmNvbGxpZGVy/aW1hZ2VzLmNvbS93/b3JkcHJlc3Mvd3At/Y29udGVudC91cGxv/YWRzLzIwMjQvMDEv/dXBncmFkZWQtMjAy/NC1maWxtLXBvc3Rl/ci5qcGc",
+      "movietitle": "Upgraded",
+      "yearofrelease": "2024",
+      "price": "500",
+      "instock": "20"
+    },
+    {
+      "id": "ac3c",
+      "movieimage": "https://imgs.search.brave.com/ffy38AVyu3NZJ1nHXhSWW6XmI7d_OcG7Y42EsLzes58/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zMy5h/bWF6b25hd3MuY29t/L3N0YXRpYy5yb2dl/cmViZXJ0LmNvbS91/cGxvYWRzL21vdmll/L21vdmllX3Bvc3Rl/ci9tb3ZpZXBhc3Mt/bW92aWVjcmFzaC0y/NC9sYXJnZV9NVjVC/WmpjeU9UWXlPR010/WVRVNFpTMDBNREUw/TFdJME9UWXRaV0Zp/WldWa05tTTFaVFZq/WGtFeVhrRnFjR2Rl/UVhWeU1Ua3hOalV5/TlFfXy5fVjFfRk1q/cGdfVVgxMDAwXy5q/cGc",
+      "movietitle": "Movie Pass, Movie Crush",
+      "yearofrelease": "2024",
+      "price": "1000",
+      "instock": "10"
+    },
+    {
+      "id": "15d5",
+      "movieimage": "https://imgs.search.brave.com/DwTNmxxiw4bLyEpYxFeuyN7dhtNjH0z9Pync9_checg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5HUTJaREl6/WldJdE5USTNOUzAw/WVdNekxXSXhPRFF0/WkRRNE9ESTBZamt5/WWpnelhrRXlYa0Zx/Y0dkZVFYVnlOamt5/TnpJMk1UUUAuanBn",
+      "movietitle": "Mother's Instincts",
+      "yearofrelease": "2024",
+      "price": "2000",
+      "instock": "20"
+    },
+    {
+      "id": "1b53",
+      "movieimage": "https://imgs.search.brave.com/F5H0_HrAElDqe8WwggrzMLShTcCNNeMjZXjC7hpMXeo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlpqUXdZalUz/T1RZdE1XVmhNaTAw/TjJZMkxXRXpNRGd0/TXpWaU4yVTROV0kx/Tm1JM1hrRXlYa0Zx/Y0dkZVFYVnlPRGsy/TkRRM01UQUAuanBn",
+      "movietitle": "The Beekeeper",
+      "yearofrelease": "2024",
+      "price": "2000",
+      "instock": "10"
+    }
+  ]
+}
